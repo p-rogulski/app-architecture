@@ -1,2 +1,2 @@
-Model VIEW INENT
+Model View Intent
 ================
